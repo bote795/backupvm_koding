@@ -1,0 +1,21 @@
+{
+    "name": "socket",
+    "description": "Socket is a connect clone for simple socket based applications",
+    "version": "0.0.1",
+    "author": {
+        "name": "Richard S Allinson",
+        "email": "rsa@mounitainmansoftware.com"
+    },
+    "main": "index",
+    "engines": {
+        "node": ">= 0.6.0 < 0.7.0"
+    },
+    "dependencies" : {
+        "microtime": "=0.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/capecodehq/socket.git"
+    },
+    "license": "MIT"
+}

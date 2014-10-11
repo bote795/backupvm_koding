@@ -1,0 +1,22 @@
+extends layout
+
+block content
+	h1 Battlefield - Play
+
+	div.well
+		span#game-id(class="hidden")= id
+		h2 Users
+		ul#player-list
+		ul#player-actions
+	canvas#stage(width="940", height="500")
+		Your browser is not able to render a canvas element!
+
+block append scripts
+	script(src="/socket.io/socket.io.js")
+	script(src="http://code.createjs.com/easeljs-0.5.0.min.js")
+	script(src="http://code.createjs.com/tweenjs-0.3.0.min.js")
+	script(src="http://code.createjs.com/soundjs-0.3.0.min.js")
+	script(src="http://code.createjs.com/preloadjs-0.2.0.min.js")
+	script(src="/js/objects/Tank.js")
+	script(src="/js/objects/Shoot.js")
+	script(src="/js/play.js")

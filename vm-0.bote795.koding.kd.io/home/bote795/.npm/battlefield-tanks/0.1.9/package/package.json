@@ -1,0 +1,23 @@
+{
+  "name": "battlefield-tanks",
+  "version": "0.1.9",
+  "description": "Realtime game with easeljs, node.js, mongodb and socket.io",
+  "main": "server.js",
+  "repository": "",
+  "keywords": [
+    "game",
+    "websocket",
+    "tank"
+  ],
+  "author": "Tim Helfensdörfer",
+  "license": "BSD",
+  "dependencies": {
+    "express": ">= 3.0.0",
+    "socket.io": ">= 0.9.0",
+    "mongoose": ">= 3.4.0",
+    "caterpillar": ">= 1.1.0",
+    "jade": ">= 0.27.0",
+    "connect": ">= 2.7.0",
+    "underscore": ">= 1.4.2"
+  }
+}

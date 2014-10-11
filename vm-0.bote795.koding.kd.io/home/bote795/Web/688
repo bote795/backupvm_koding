@@ -1,0 +1,2453 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+<script type="text/javascript" src="/pimcore/static/js/frontend/geoip.js/"></script><script type="text/javascript">var pimcore = pimcore || {};pimcore["targeting"] = {};pimcore["targeting"]["dataPush"] = {"personas":[],"method":"get","document":2133};pimcore["targeting"]["targetingRules"] = [{"id":1,"name":"test1","description":"","scope":"hit","active":true,"conditions":[{"language":"he_IL","type":"language","operator":"and","bracketLeft":false,"bracketRight":false},{"url":"@^\/en\/test$@","type":"url","operator":"and","bracketLeft":false,"bracketRight":false}],"actions":{"redirectEnabled":true,"redirectUrl":7,"redirectCode":null,"eventEnabled":false,"eventKey":"","eventValue":"","codesnippetEnabled":false,"codesnippetCode":"","codesnippetSelector":null,"codesnippetPosition":null,"programmaticallyEnabled":true,"personaId":0,"personaEnabled":false}}];pimcore["targeting"]["personas"] = [{"id":1,"name":"test1","description":"","threshold":1,"active":true,"conditions":[{"browser":"firefox","type":"browser","operator":"and","bracketLeft":false,"bracketRight":false}]}];</script><script type="text/javascript" src="/pimcore/static/js/frontend/targeting.js"></script>
+		<meta charset="utf-8" />
+		<title>Zend - User - Login?redirect= - Download - 688</title>				<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+				<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/js/jquery-1.11.0.min.js"></script>
+		<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/js/jquery-ui/js/jquery-ui-1.10.4.custom.min.js"></script>
+		<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/js/bootstrap.min.js"></script>
+		<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/js/elq.js"></script>
+		<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/js/main.js"></script>
+		<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/js/menu.js"></script>
+		<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/js/galleryslide.js"></script>
+		<script src="https://static-zend.pantherssl.com/cmsdata/static-assets/lightbox-2.7.1/js/lightbox.min.js"></script>
+		
+		<link href="https://static-zend.pantherssl.com/cmsdata/static-assets/lightbox-2.7.1/css/lightbox.css" media="screen" rel="stylesheet" type="text/css" >
+		<link href="https://static-zend.pantherssl.com/cmsdata/static-assets/css/vendor/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" >
+		<link href="https://static-zend.pantherssl.com/cmsdata/static-assets/css/main.css" media="screen" rel="stylesheet" type="text/css" >
+		<link href="/static-assets/css/vendor/font-awesome/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" >
+		<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic' rel='stylesheet' type='text/css'>
+		        		
+		
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+ 
+	<body data-spy="scroll" data-target="#product-nav">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PG5L5N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PG5L5N');</script>
+<!-- End Google Tag Manager -->
+
+		<div id="floating-bar" class="visible-md visible-lg">
+			<a target="_blank" href="https://server.iad.liveperson.net/hc/10919998/?cmd=file&file=chatFrame&site=10919998"><img src="https://static-zend.pantherssl.com/cmsdata/static-assets/img/Sticky-Chat-en.png"></a>
+			<a href="/en/contact-us"><img src="https://static-zend.pantherssl.com/cmsdata/static-assets/img/Sticky-Contact-Us-en.png"></a>
+		</div>
+		<div class="container" style="position: relative;">
+			<header id="_header">
+				<div class="row">
+					<div class="col-md-1"><a href="/en"><img id="logo" src="https://static-zend.pantherssl.com/cmsdata/static-assets/img/zend-logo-big.gif"/></a></div>
+					<div class="col-md-11">
+						<div class="row top-navs">
+							<div class="col-md-8">
+								<nav id="lang-nav">
+									<a href="/fr"><img src="https://static-zend.pantherssl.com/cmsdata/static-assets/img/fr-flag.png" /></a>									<a href="/de"><img src="https://static-zend.pantherssl.com/cmsdata/static-assets/img/de-flag.png" /></a>																	</nav>
+								<nav id="user-nav">
+									<a target="_blank" href="http://shop.zend.com/"><i class="fa fa-shopping-cart"></i> Store</a>
+									<i class="separator"></i>
+									<a target="_blank" href="http://blog.zend.com/">Blog</a>
+									<i class="separator"></i>
+									<a href="/en/user/login">My Account</a>
+																	
+																</nav>
+								<div class="clearfix"></div>
+							</div>
+							<div class="col-md-4">
+								<form role="form" id="searchform" action="/en/search/">
+								  <div class="form-group search_box">
+									<i class="fa fa-search" onclick="$('#searchform').submit()"></i>
+									<input type="search" class="form-control" id="search_query" name="q" placeholder="Search in Zend.com" />
+								  </div>
+								</form>
+							</div>
+						</div>
+						<div class="row hidden-xs" id="main-menu" role="navigation">
+								
+	<div id="menu">
+										<div class="menu-subject-frontend">
+				<a class="menu-title">Products and Solutions</a>
+				<div class="menu-items" cols="2">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer1" rel="1">
+								<div class="original-content">
+									<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Products</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/products/server" rel="1">Zend Server</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-server01-150x122px.jpg" style="text-align: left; width: 150px;" /></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/products/server"><span style="color:#28719b;">Free Zend Server Trial</span></a></span></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/products/studio" rel="1">Zend Studio</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/products/guard" rel="1">Zend Guard</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-server01-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><span style="font-size:18px;"><strong><a href="/en/products/server"><span style="color:#28719b;">Free Zend Server Trial</span></a></strong></span></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="https://apigility.org/" rel="1" target="_blank">Apigility</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="http://framework.zend.com/" rel="1" target="_blank">Zend Framework</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-server01-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><span style="font-size:18px;"><strong><a href="/en/products/server"><span style="color:#28719b;">Free Zend Server Trial</span></a></strong></span></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Solutions</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/solutions/continuous-delivery" rel="1">Continuous Delivery</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/6-steps-to-continuous-delivery"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears03-wp-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="/6-steps-to-continuous-delivery"><strong><span style="font-size:18px;"><span style="color:#28719b;">Whitepaper 6 Steps to Continuous Deilvery</span></span></strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 1);">-->
+										<a href="/en/solutions/cloud-solutions" >Cloud Solutions</a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/solutions/modernize-ibm-i" rel="1">IBM i Solutions</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/6-steps-to-continuous-delivery"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears03-wp-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="/6-steps-to-continuous-delivery"><strong><span style="font-size:18px;"><span style="color:#28719b;">Whitepaper 6 Steps to Continuous Deilvery</span></span></strong></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Training</a>
+				<div class="menu-items" cols="2">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer2" rel="2">
+								<div class="original-content">
+									<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until August 15 only!</span></strong></span></a></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Training</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/training" rel="2">Course Catalog</a>									<!--</div>-->
+									<div class="spolightData">
+										<p><a href="http://zendcon.com" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon01-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 18px; line-height: 24px; text-align: center;"><strong><a href="http://www.zendcon.com/" target="_blank"><span style="color:#28719b;">50% off Certification at ZendCon</span></a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/training/training-help-me-choose#help" rel="2">Help me choose</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15 </strong><span style="color:#28719b;"><strong><span style="font-size:18px;">only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/training/training-bundles" rel="2">Training Bundles</a>									<!--</div>-->
+									<div class="spolightData">
+										<p><a href="http://zendcon.com" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon01-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 18px; line-height: 24px; text-align: center;"><strong><a href="http://www.zendcon.com/" target="_blank"><span style="color:#28719b;">50% off Certification at ZendCon</span></a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+																			<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15 </strong><span style="color:#28719b;"><strong><span style="font-size:18px;">only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Certification</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/certification" rel="2">PHP and Zend Framework Certifications</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/en/services/certification/php-certification-study-guide"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-study-guide-150x122px.png" style="width:150px;" />PHP Study Guide:</a></p>
+
+<p>&nbsp;
+<p style="text-align: center;"><a href="/en/services/certification/php-certification-study-guide">Prepare yourself to become certified in PHP</a></p>
+</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 2);">-->
+										<a href="/en/services/certification/php-certification-study-guide" >PHP Certification Study Guide</a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/certification/zend-certified-engineer-directory" rel="2">Zend Certified Engineer Directory</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://zendcon.com/certification" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon02-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="http://zendcon.com/certification" target="_blank"><span style="color:#28719b;">Special ZCE Rates for ZendCon!</span></a></span></strong></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Services and Support</a>
+				<div class="menu-items" cols="2">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer3" rel="3">
+								<div class="original-content">
+									<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><strong><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;"><span style="font-size:18px;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width:150px;" /></span></span></a></strong></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Services</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/continuous-delivery" rel="3">Continuous Delivery</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width: 150px;" /></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/application-audit-and-migration" rel="3">Application Audit &amp; Migration</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/continuous-delivery-roi"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-roi-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="text-align: center;"><a href="/continuous-delivery-roi"><span style="color:#28719b;"><strong><span style="font-size:18px;">Whitepaper. How to Calculate the ROI of Continuous Delivery</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/start-with-php" rel="3">Start with PHP</a>									<!--</div>-->
+									<div class="spolightData">
+										<div style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width: 150px;" /></div>
+
+<div>
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+</div>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/zend-server-implementation" rel="3">Zend Server Implementation</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-roi-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><span style="font-size:18px;"><a href="/continuous-delivery-roi"><span style="color:#28719b;"><strong>Whitepaper. How to Calculate the ROI of Continuous Delivery</strong></span></a></span></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/custom-implementation-services" rel="3">Custom Implementation</a>									<!--</div>-->
+									<div class="spolightData">
+										<div style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width:150px;" /></div>
+
+<div>
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+</div>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Support</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/support-center/support" rel="3">Support Programs</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="/en/support-center" >Support and Documenation</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="/en/user/login" >My Account</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="http://kb.zend.com/" target="_blank">Knowledgebase</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="http://forums.zend.com/" target="_blank">Forums</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+																			<!--</div>-->
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Resources</a>
+				<div class="menu-items" cols="3">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer4" rel="4">
+								<div class="original-content">
+									<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Topics</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/continuous-delivery" rel="4">Continuous Delivery</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-roi-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/continuous-delivery-roi"><strong><span style="color:#28719b;">Whitepaper. How to Calculate the ROI of Continuous Delivery</span></strong></a></span></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/php-leadership" >PHP Leadership</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/get-started-with-php" >Start with PHP </a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/zend-server" >Zend Server</a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/zend-studio" rel="4">Zend Studio</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/zend-framework" >Zend Framework</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Resources</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/newsletters" rel="4">Newsletters</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15</strong><span style="color:#28719b;"><strong><span style="font-size:18px;"> only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/white-papers" >White Papers and Surveys</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/case-studies" >Customer Success Stories</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="http://devzone.zend.com/" target="_blank">Zend Developer Zone</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">News and Events</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="http://blog.zend.com/" rel="4" target="_blank">Blog</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/news-and-events/newsroom" rel="4">Newsroom </a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/webinars" rel="4">Webinars </a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/events" rel="4">Events</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15</strong><span style="color:#28719b;"><strong><span style="font-size:18px;"> only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="http://zendcon.com/" rel="4" target="_blank">ZendCon</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15</strong><span style="color:#28719b;"><strong><span style="font-size:18px;"> only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Try and Buy</a>
+				<div class="menu-items" cols="3">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer5" rel="5">
+								<div class="original-content">
+									<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>New! Zend Server Developer Edition Standard - $195</strong></a></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Try Now</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+																			<!--</div>-->
+									<div class="spolightData">
+										<p>&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>New! Zend Server Developer Edition Standard - $195</strong></a></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/products/server/downloads" >Zend Server </a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="/en/products/studio/downloads" rel="5">Zend Studio </a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/products/guard/downloads" >Zend Guard</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Buy Now</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="/en/products/server#editions" rel="5">Zend Server</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Buy the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 now!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-studio-for-eclipse.html" rel="5" target="_blank">Zend Studio</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Buy the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 now!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-guard-annual.html" rel="5">Zend Guard</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+																			<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-certification.html" rel="5">Zend Certifications</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=php-training.html" rel="5">Zend Training Courses</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Partners</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="/en/company/partners/solution-partners" rel="5">Solution Partners</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-enterprise.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-enterprise-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://shop.zend.com/en/zend-server-developer-enterprise.html"><strong>Zend Server Developer Edition&nbsp; Enterprise - <s>$1295</s> <span style="color:#FF0000;"><span style="font-size: 22px;">$995</span></span></strong></a></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/services/training/training-partners" >Training Partners</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/company/partners/online-resellers" >Online Resellers</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/company/partners/affiliate-network" >Affiliate Network</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/company/partners/strategic-partners" >Strategic Partners</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+				<a href="/en/downloads" class="modern-btn orange-btn">Download Now</a>	</div>
+		
+						</div>
+						<div class="row main-nav navbar navbar-default visible-xs" role="navigation">
+						  <div class="container-fluid">
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+								  <span class="sr-only">Toggle navigation</span>
+								  <span class="icon-bar"></span>
+								  <span class="icon-bar"></span>
+								  <span class="icon-bar"></span>
+								</button>
+							</div>
+							 <div class="navbar-collapse collapse" id="navbar-main-resp">
+								
+								
+	<div id="menu">
+										<div class="menu-subject-frontend">
+				<a class="menu-title">Products and Solutions</a>
+				<div class="menu-items" cols="2">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer1" rel="1">
+								<div class="original-content">
+									<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Products</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/products/server" rel="1">Zend Server</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-server01-150x122px.jpg" style="text-align: left; width: 150px;" /></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/products/server"><span style="color:#28719b;">Free Zend Server Trial</span></a></span></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/products/studio" rel="1">Zend Studio</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/products/guard" rel="1">Zend Guard</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-server01-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><span style="font-size:18px;"><strong><a href="/en/products/server"><span style="color:#28719b;">Free Zend Server Trial</span></a></strong></span></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="https://apigility.org/" rel="1" target="_blank">Apigility</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="http://framework.zend.com/" rel="1" target="_blank">Zend Framework</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-server01-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><span style="font-size:18px;"><strong><a href="/en/products/server"><span style="color:#28719b;">Free Zend Server Trial</span></a></strong></span></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Solutions</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/solutions/continuous-delivery" rel="1">Continuous Delivery</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/6-steps-to-continuous-delivery"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears03-wp-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="/6-steps-to-continuous-delivery"><strong><span style="font-size:18px;"><span style="color:#28719b;">Whitepaper 6 Steps to Continuous Deilvery</span></span></strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 1);">-->
+										<a href="/en/solutions/cloud-solutions" >Cloud Solutions</a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 1);">-->
+										<a href="/en/solutions/modernize-ibm-i" rel="1">IBM i Solutions</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/6-steps-to-continuous-delivery"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears03-wp-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="/6-steps-to-continuous-delivery"><strong><span style="font-size:18px;"><span style="color:#28719b;">Whitepaper 6 Steps to Continuous Deilvery</span></span></strong></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Training</a>
+				<div class="menu-items" cols="2">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer2" rel="2">
+								<div class="original-content">
+									<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until August 15 only!</span></strong></span></a></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Training</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/training" rel="2">Course Catalog</a>									<!--</div>-->
+									<div class="spolightData">
+										<p><a href="http://zendcon.com" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon01-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 18px; line-height: 24px; text-align: center;"><strong><a href="http://www.zendcon.com/" target="_blank"><span style="color:#28719b;">50% off Certification at ZendCon</span></a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/training/training-help-me-choose#help" rel="2">Help me choose</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15 </strong><span style="color:#28719b;"><strong><span style="font-size:18px;">only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/training/training-bundles" rel="2">Training Bundles</a>									<!--</div>-->
+									<div class="spolightData">
+										<p><a href="http://zendcon.com" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon01-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 18px; line-height: 24px; text-align: center;"><strong><a href="http://www.zendcon.com/" target="_blank"><span style="color:#28719b;">50% off Certification at ZendCon</span></a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+																			<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15 </strong><span style="color:#28719b;"><strong><span style="font-size:18px;">only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Certification</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/certification" rel="2">PHP and Zend Framework Certifications</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/en/services/certification/php-certification-study-guide"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-study-guide-150x122px.png" style="width:150px;" />PHP Study Guide:</a></p>
+
+<p>&nbsp;
+<p style="text-align: center;"><a href="/en/services/certification/php-certification-study-guide">Prepare yourself to become certified in PHP</a></p>
+</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 2);">-->
+										<a href="/en/services/certification/php-certification-study-guide" >PHP Certification Study Guide</a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 2);">-->
+										<a href="/en/services/certification/zend-certified-engineer-directory" rel="2">Zend Certified Engineer Directory</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://zendcon.com/certification" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon02-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="http://zendcon.com/certification" target="_blank"><span style="color:#28719b;">Special ZCE Rates for ZendCon!</span></a></span></strong></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Services and Support</a>
+				<div class="menu-items" cols="2">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer3" rel="3">
+								<div class="original-content">
+									<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><strong><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;"><span style="font-size:18px;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width:150px;" /></span></span></a></strong></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Services</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/continuous-delivery" rel="3">Continuous Delivery</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width: 150px;" /></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/application-audit-and-migration" rel="3">Application Audit &amp; Migration</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="/continuous-delivery-roi"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-roi-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="text-align: center;"><a href="/continuous-delivery-roi"><span style="color:#28719b;"><strong><span style="font-size:18px;">Whitepaper. How to Calculate the ROI of Continuous Delivery</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/start-with-php" rel="3">Start with PHP</a>									<!--</div>-->
+									<div class="spolightData">
+										<div style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width: 150px;" /></div>
+
+<div>
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+</div>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/zend-server-implementation" rel="3">Zend Server Implementation</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-roi-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><span style="font-size:18px;"><a href="/continuous-delivery-roi"><span style="color:#28719b;"><strong>Whitepaper. How to Calculate the ROI of Continuous Delivery</strong></span></a></span></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/services/custom-implementation-services" rel="3">Custom Implementation</a>									<!--</div>-->
+									<div class="spolightData">
+										<div style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-gears02-150x122px.jpg" style="width:150px;" /></div>
+
+<div>
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/en/solutions/continuous-delivery"><span style="color:#28719b;">Zend Server Platform for Continuous Delivery&nbsp;</span></a></span></strong></p>
+</div>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Support</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 3);">-->
+										<a href="/en/support-center/support" rel="3">Support Programs</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="/en/support-center" >Support and Documenation</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="/en/user/login" >My Account</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="http://kb.zend.com/" target="_blank">Knowledgebase</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+										<a href="http://forums.zend.com/" target="_blank">Forums</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 3);">-->
+																			<!--</div>-->
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Resources</a>
+				<div class="menu-items" cols="3">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer4" rel="4">
+								<div class="original-content">
+									<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Topics</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/continuous-delivery" rel="4">Continuous Delivery</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-roi-150x122px.jpg" style="width:150px;" /></p>
+
+<p style="text-align: center;"><strong><span style="font-size:18px;"><a href="/continuous-delivery-roi"><strong><span style="color:#28719b;">Whitepaper. How to Calculate the ROI of Continuous Delivery</span></strong></a></span></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/php-leadership" >PHP Leadership</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/get-started-with-php" >Start with PHP </a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/zend-server" >Zend Server</a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/zend-studio" rel="4">Zend Studio</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/zend-framework" >Zend Framework</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Resources</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/newsletters" rel="4">Newsletters</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15</strong><span style="color:#28719b;"><strong><span style="font-size:18px;"> only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/white-papers" >White Papers and Surveys</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="/en/resources/case-studies" >Customer Success Stories</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 4);">-->
+										<a href="http://devzone.zend.com/" target="_blank">Zend Developer Zone</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">News and Events</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="http://blog.zend.com/" rel="4" target="_blank">Blog</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/news-and-events/newsroom" rel="4">Newsroom </a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/webinars" rel="4">Webinars </a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-webinar-zeev-150x122px.png" style="line-height:18px;width:150px;" /><strong><a href="/en/webinars/recorded/show/1723_zend+server+7+-+work+less%2c+code+more%21">Watch my recorded Webinar to learn about&nbsp;Z-Ray</a></strong></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="/en/resources/events" rel="4">Events</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15</strong><span style="color:#28719b;"><strong><span style="font-size:18px;"> only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 4);">-->
+										<a href="http://zendcon.com/" rel="4" target="_blank">ZendCon</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zendcon03-150x122px.jpg" style="width:150px;" /></a></p>
+
+<p style="color: rgb(119, 119, 119); font-size: 16px; line-height: 18px; text-align: center;"><a href="http://www.zendcon.com/registration" target="_blank"><span style="color:#28719b;"><strong><span style="font-size:18px;">Special $400 Summer Savings until </span></strong></span><strong>August 15</strong><span style="color:#28719b;"><strong><span style="font-size:18px;"> only!</span></strong></span></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+								<div class="menu-subject-frontend">
+				<a class="menu-title">Try and Buy</a>
+				<div class="menu-items" cols="3">	
+					<div class="menu-sub-menu">
+						<div class="menu-spotlight">
+							<span class="menu-spotlight-title">Spotlight</span>
+							<div class="spotlightContainer" id="spotlightContainer5" rel="5">
+								<div class="original-content">
+									<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>New! Zend Server Developer Edition Standard - $195</strong></a></p>
+								</div>
+								<div class="custom-content">
+								
+								</div>
+							</div>
+						</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Try Now</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+																			<!--</div>-->
+									<div class="spolightData">
+										<p>&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>New! Zend Server Developer Edition Standard - $195</strong></a></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/products/server/downloads" >Zend Server </a>									<!--</div>-->
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="/en/products/studio/downloads" rel="5">Zend Studio </a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Try the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 today!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/products/guard/downloads" >Zend Guard</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Buy Now</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="/en/products/server#editions" rel="5">Zend Server</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Buy the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 now!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-studio-for-eclipse.html" rel="5" target="_blank">Zend Studio</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="/en/products/studio"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/spotlight-zend-studio11-150x122px.png" style="width:150px;" /></a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Buy the latest </a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;"><a href="/en/products/studio">Zend Studio 11 now!</a></p>
+
+<p style="color: rgb(40, 113, 155); font-size: 18px; font-weight: bold; line-height: 20px; text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-guard-annual.html" rel="5">Zend Guard</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+																			<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-certification.html" rel="5">Zend Certifications</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="http://www.zend.com/storeapi/index/redirect/?uri=php-training.html" rel="5">Zend Training Courses</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-standard-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-standard.html"><strong>Zend Server Developer Edition Standard - $195</strong></a></p>
+	
+									</div>
+																	</div>
+													</div>
+					</div>
+										<div class="menu-sub-menu">
+						<a class="menu-sub-title">Partners</a>
+						<div class="menu-links">
+															<div>
+																	<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, true, 5);">-->
+										<a href="/en/company/partners/solution-partners" rel="5">Solution Partners</a>									<!--</div>-->
+									<div class="spolightData">
+										<p style="text-align: center;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-server-developer-enterprise.html"><img src="https://static-zend.pantherssl.com/cmsdata/spotlights/zend-server-enterprise-155x155px.jpg" style="width:155px;" /></a></p>
+
+<p style="text-align: center;"><a href="http://shop.zend.com/en/zend-server-developer-enterprise.html"><strong>Zend Server Developer Edition&nbsp; Enterprise - <s>$1295</s> <span style="color:#FF0000;"><span style="font-size: 22px;">$995</span></span></strong></a></p>
+
+<p style="text-align: center;">&nbsp;</p>
+	
+									</div>
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/services/training/training-partners" >Training Partners</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/company/partners/online-resellers" >Online Resellers</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/company/partners/affiliate-network" >Affiliate Network</a>									<!--</div>-->
+																	</div>
+															<div>
+																		
+									<!--<div class="menu-link" onMouseOver="Menu.chnageSpotLight(this, false, 5);">-->
+										<a href="/en/company/partners/strategic-partners" >Strategic Partners</a>									<!--</div>-->
+																	</div>
+													</div>
+					</div>
+									</div>
+			</div>
+				<a href="/en/downloads" class="modern-btn orange-btn">Download Now</a>	</div>
+		
+							  </div><!--/.nav-collapse -->
+						  </div>
+						</div>
+					</div>
+				</div>
+			</header>
+		</div>
+		<div id="page-banner">
+			<div class="container">
+				<h1></h1>
+				<p class="description"></p>
+			</div>
+		</div>
+		<div id="pb-container"></div>
+		<div class="container">
+			<div id="breadcrumbs">
+				<nav>
+											<a href="/en">Home</a>
+																/ User																				/ Login																				/ En																				/ Download																			/ <a href="/en/user/login/en/download/688">688</a>	
+													</nav>
+			</div>
+			<div style="margin:0 auto;">
+				<span id="language-span" style="display: none;">en</span>
+			<style>
+		#page-banner{
+			background: url('/login-register-assets/top-banner-bg-5ea5c3-2000x108px.png');
+			width: 100%;
+			height: 108px;
+			margin: 0 auto;
+			margin-top: 20px;
+			background-color: #5EA5C3;
+		}
+				#page-banner h1::before{
+			content:"My Account";
+			color: #0070AA;
+		}
+						#page-banner p.description::before{
+			content:"";
+		}
+				</style>
+	
+
+	<script type="text/javascript" src="/static-assets/js/classes/Base64.js"></script>
+	<script type="text/javascript" src="/static-assets/js/classes/Registration.js"></script>
+	<script type="text/javascript" src="/static-assets/js/classes/Login.js"></script>
+	<style>
+	#registration-form-container {
+		width: 50%;
+		margin: 0 auto;
+	}
+
+	#login-form-container {
+		width: 50%;
+		margin: 0 auto;
+	}
+
+	#login-form-container {
+		width: 50%;
+		margin: 0 auto;
+	}
+
+	#login-forgot-link {
+		text-align: center;
+		width: 100%;
+	}
+
+	.registration-row {
+		width: 100%;
+		padding: 2px 2px 2px 2px;
+	}
+
+	.registration-row-left {
+		width: 40%;
+		display: inline-block;
+		text-align: right;
+	}
+
+	.registration-row-right {
+		width: 40%;
+		display: inline-block;
+	}
+
+	.registration-input {
+
+	}
+
+	.registration-input-text {
+		width: 100%;
+	}
+
+	.login-row {
+		width: 100%;
+		padding: 2px 2px 2px 2px;
+	}
+
+	.login-input {
+		width: 100%;
+	}
+
+	.centered-button {
+		width: 100%;
+		text-align: center;
+	}
+	</style>
+
+
+	<style>
+	#login-main-cont {
+
+	}
+
+	#login-login-cont {
+		border: 1px solid #E8E8E8;
+		display: inline-block;
+		width: 100%;
+		margin-top: 10px;
+		background: #ffffff; /* Old browsers */
+		background: -moz-linear-gradient(top,  #ffffff 0%, #ffffff 1%, #f1f1f1 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(1%,#ffffff), color-stop(100%,#f1f1f1)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #ffffff 0%,#ffffff 1%,#f1f1f1 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #ffffff 0%,#ffffff 1%,#f1f1f1 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #ffffff 0%,#ffffff 1%,#f1f1f1 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #ffffff 0%,#ffffff 1%,#f1f1f1 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+	}
+
+	#login-registration-cont {
+		border: 1px solid #E8E8E8;
+	}
+
+	.login-box-header {
+		background-color: #E3E3E3;
+		text-align: center;
+		color: #0070AC;
+		font-size: 20px;
+		width: 100%;
+	}
+
+	.login-box-header-text {
+		padding: 10px 10px 10px 10px;
+	}
+
+	.login-box-cont {
+		padding: 10px 10px 10px 10px;
+		margin-top: 60px;
+	}
+
+	.login-row-form {
+		width: 100%;
+		padding: 5px 5px 5px 5px;
+	}
+
+	.login-row-left {
+		width: 39%;
+		text-align: left;
+		width: 40%;
+		display: inline-block;
+		text-align: left;
+	}
+
+	.login-row-right {
+		width: 59%;
+		text-align: left;
+		display: inline-block;
+	}
+
+	.login-row-input {
+		width: 100%;
+	}
+
+	#loginFeeder {
+		text-align: center;
+		padding: 10px 10px 10px 10px;
+	}
+
+	.login-resister-header-title {
+		color: #0071AB;
+		font-size: 25px;
+		text-align: center;
+	}
+
+	.login-box-cont-reg {
+		padding: 10px 10px 10px 10px;
+	}
+	</style>
+
+	<div id="login-main-cont">
+		<div id="registration-form-container-top">
+			<div class="row">
+				<div id="login-div" class="col-md-6">
+					<form action="" id="login-form" onSubmit="Login.checkLogin(); return false;">
+						<div id="login-login-cont">
+							<div class="login-box-header">
+								<div class="login-box-header-text">
+									Have a Zend Account?								</div>
+							</div>
+							<div class="login-box-cont">
+								<div class="login-row-form">
+									<div class="login-row-left">
+										Username/Email:									</div>
+									<div class="login-row-right">
+										<input id="login-input-email" class="login-row-input" type="text" />
+									</div>
+								</div>
+								<div class="login-row-form">
+									<div class="login-row-left">
+										Password:									</div>
+									<div class="login-row-right">
+										<input id="login-input-password" class="login-row-input" type="password" />
+									</div>
+								</div>
+								<div class="login-row-form">
+									<div class="login-row-left">
+									
+									</div>
+									<div class="login-row-right">
+										<input id="login-input-remember-me" type="checkbox" /> Remember this login information									</div>
+								</div>
+								<div class="login-row-form">
+									<div class="login-row-left">
+									
+									</div>
+									<div class="login-row-right">
+										<input class="btn btn-primary" type="submit" value="log in" style="width: 130px; margin-top: 15px;" />
+									</div>
+								</div>
+								<div class="login-row-form">
+									<div class="login-row-left">
+									
+									</div>
+									<div class="login-row-right">
+										<a href="/user/lost">Forgot your password?</a>
+									</div>
+								</div>
+							</div>
+							<div id="loginFeeder"></div>
+						</div>
+					</form>
+				</div>
+				<div id="registration-div" class="col-md-6">
+					<div id="login-login-cont">
+						<div class="login-box-header">
+							<div class="login-box-header-text">
+								Don't have a Zend Account?							</div>
+						</div>
+						<div style="text-align: center;">
+							<div style="margin-top: 10px;" class="login-register-now-button" onClick="window.location = '/en/user/login#reg';register();">
+								<div class="login-register-now-button-left">
+									<img src="https://static-zend.pantherssl.com/cmsdata/login-register-assets/man-icon-21x18px.png" />
+								</div><div class="login-register-now-button-right">
+									Register Now								</div>
+							</div>
+						</div>
+						<div class="login-box-cont-reg">
+							<div class="login-resister-header-title">
+								Register now and receive these benefits							</div>
+							<style>
+							.login-resister-header-images {
+								margin-top: 20px;
+								text-align: center;
+							}
+							.login-register-image-block {
+								width: 130px;
+								text-align: center;
+								display: inline-block;
+								margin: 20px 20px 20px 20px;
+								vertical-align: top;
+							}
+							</style>
+							<div class="login-resister-header-images">
+																	<div class="login-register-image-block">
+										<img src="https://static-zend.pantherssl.com/cmsdata/site-images/icons/my-account-icons/my-account-download-130x90px.png" />
+										Download FREE and Trial Products									</div>
+																		<div class="login-register-image-block">
+										<img src="https://static-zend.pantherssl.com/cmsdata/site-images/icons/my-account-icons/my-account-webinars-130x90px.png" />
+										Watch recorded webinars									</div>
+																		<div class="login-register-image-block">
+										<img src="https://static-zend.pantherssl.com/cmsdata/site-images/icons/my-account-icons/my-account-whitepapers-130x90px.png" />
+										Read whitepapers and ebooks									</div>
+																		<div class="login-register-image-block">
+										<img src="https://static-zend.pantherssl.com/cmsdata/site-images/icons/my-account-icons/my-account-support-130x90px.png" />
+										Submit support tickets									</div>
+																		<div class="login-register-image-block">
+										<img src="https://static-zend.pantherssl.com/cmsdata/site-images/icons/my-account-icons/my-account-forums-130x90px.png" />
+										Participate in online forums 									</div>
+																</div>
+							<style>
+							.login-register-now-button-left {
+								background-color: #FF811B;
+								padding: 10px 10px 10px 10px;
+								display: inline-block;
+							}
+							
+							.login-register-now-button-right {
+								background-color: #FFA11D;
+								padding: 10px 10px 10px 10px;
+								display: inline-block;
+							}
+							
+							.login-register-now-button {
+								color: white;
+								cursor: pointer;
+								display: inline-block;
+							}
+							
+							.login-register-now-quote {
+								background-color: #CDE0E7;
+								padding: 10px 10px 10px 10px;
+							}
+							
+							.login-register-now-quote {
+								background-color: #CDE0E7;
+								padding: 10px 10px 10px 10px;
+							}
+							
+							.login-register-now-quote-image-cont {
+								display: inline-block;
+								width: 19%;
+							}
+							
+							.login-register-now-quote-text-cont {
+								display: inline-block;
+								width: 69%;
+								float: right;
+							}
+							</style>
+							<script type="text/javascript">
+							$(document).ready(function() {
+								if(window.location.hash) {
+									if (window.location.hash == "#reg") {
+										register();
+									}
+								}
+							});
+							
+							function register() {
+								$("#login-div").hide();
+								$("#registration-div").hide();
+								$("#registration-form").show();
+							}
+							
+							function showLogin() {
+								$("#login-div").show();
+								$("#registration-div").show();
+								$("#registration-form").hide();							
+							}
+							</script>
+						</div>
+						<div class="login-register-now-quote">
+							<div class="login-register-now-quote-image-cont">
+								<img src="https://static-zend.pantherssl.com/cmsdata/site-images/icons/my-account-icons/my-account-goodies-130x90px.png" alt="" />							</div>
+							<div class="login-register-now-quote-text-cont">
+								<p>Get technical updates, newsletters and more good stuff</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<style>
+				#register-title-dont {
+					background-color: #03AEDA;
+					padding: 10px 10px 10px 10px; 
+					text-align: center; 
+					font-size: 20px;
+					color: white; 
+				}
+				
+				#register-title-dont::after {
+					content:'';
+					position: absolute;
+					top: 48px;
+					left: 50%;
+					border-left: 15px solid transparent;
+					border-right: 15px solid transparent;
+					border-top: 15px solid #03AEDA;
+				}
+				
+				#register-title-have {
+					background-color: #E3E3E3;
+					padding: 10px 10px 10px 10px;  
+					text-align: center; 
+					font-size: 20px;
+					cursor: pointer;
+				}
+				
+				#registration-form {
+					display: none;
+				}
+				
+				#registration-form-cont {
+					
+				}
+				</style>
+				<div id="registration-form" class="col-md-12" style="border: 1px solid #EFEFEF; padding: 0;">
+					<form action="" class="form-horizontal" onSubmit="Registration.register(); return false;">
+						<div style="padding: 0px 13px 13px 13px;">
+							<div class="row">
+								<div class="col-md-4" id="register-title-have" onClick="showLogin(); window.location = '/en/user/login';">
+									Have a Zend Account?								</div>
+								<div class="col-md-8" id="register-title-dont">
+									Don't have a Zend Account?								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div id="registration-form-cont">
+									<style>
+									.registration-form-row {
+										width: 70%;
+										margin: 0 auto;
+										padding-top: 20px;
+										padding-bottom: 10px;
+									}
+									
+									.registration-form-input {
+										
+									}
+									
+									.registratino-form-select {
+										
+									}
+									</style>
+									<div id="sign-div" style="padding-top: 40px;">
+										<div class="row">
+											<div class="col-md-12" style="text-align: center; font-size: 30px; color: #0071AD;">
+												Sign up for a Zend Account											</div>
+										</div>
+										<div class="row registration-form-row">
+											<div class="col-md-4">
+												Email<br />
+												<input id="registration-input-email" class="registration-input registration-input-text form-control" type="text" />	
+											</div>
+											<div class="col-md-4">
+												Password<br />
+												<input id="registration-input-password" class="registration-input registration-input-text form-control" type="password" />	
+											</div>
+											<div class="col-md-4">
+												Confirm Password<br />
+												<input id="registration-input-password-confirm" class="registration-input registration-input-text form-control" type="password" />	
+											</div>
+										</div>
+									</div>
+									<div id="more-div" style="background-color: #DCEBF2; width: 100%; margin-top: 30px; padding-top: 20px; padding-bottom: 40px;">
+										<div class="row">
+											<div class="col-md-12" style="text-align: center; font-size: 30px; color: #0071AD;">
+												Please let us know more about you											</div>
+										</div>
+										<div class="row registration-form-row">
+											<div class="col-md-6">
+												First Name<br />
+												<input id="registration-input-first-name" class="registration-input registration-input-text form-control" type="text" />	
+											</div>
+											<div class="col-md-6">
+												Last Name<br />
+												<input id="registration-input-last-name" class="registration-input registration-input-text form-control" type="text" />	
+											</div>
+										</div>
+										<div class="row registration-form-row">
+											<div class="col-md-4">
+												Company<br />
+												<input id="registration-input-company" class="registration-input registration-input-text form-control" type="text" />	
+												<input id="registration-input-affiliated" type="checkbox" /><span style="font-size: 14px;">I'm not associated with a company</span>
+											</div>
+											<div class="col-md-4">
+												Phone<br />
+												<input id="registration-input-phone" class="registration-input registration-input-text form-control" type="text" />	
+											</div>
+											<div class="col-md-4">
+												Country<br />
+												<select class="registration-input registration-input-text form-control" id="registration-input-country">
+													<option value="0" selected="selected">-- Please Select --</option>
+																											<option value="1">United States</option>
+																												<option value="2">Albania</option>
+																												<option value="3">Algeria</option>
+																												<option value="4">American Samoa</option>
+																												<option value="5">Andorra</option>
+																												<option value="6">Angola</option>
+																												<option value="7">Anguilla</option>
+																												<option value="9">Antigua And Barbuda</option>
+																												<option value="10">Argentina</option>
+																												<option value="11">Armenia</option>
+																												<option value="12">Aruba</option>
+																												<option value="13">Australia</option>
+																												<option value="14">Austria</option>
+																												<option value="15">Azerbaijan</option>
+																												<option value="16">Bahamas</option>
+																												<option value="17">Bahrain</option>
+																												<option value="18">Bangladesh</option>
+																												<option value="19">Barbados</option>
+																												<option value="20">Belarus</option>
+																												<option value="21">Belgium</option>
+																												<option value="22">Belize</option>
+																												<option value="23">Benin</option>
+																												<option value="24">Bermuda</option>
+																												<option value="25">Bhutan</option>
+																												<option value="26">Bolivia</option>
+																												<option value="27">Bosnia and Herzegovina</option>
+																												<option value="28">Botswana</option>
+																												<option value="29">Bouvet Island</option>
+																												<option value="30">Brazil</option>
+																												<option value="31">British Indean Ocean Territory</option>
+																												<option value="32">Brunei</option>
+																												<option value="33">Bulgaria</option>
+																												<option value="34">Burkina Faso</option>
+																												<option value="36">Burundi</option>
+																												<option value="37">Cambodia</option>
+																												<option value="38">Cameroon</option>
+																												<option value="39">Canada</option>
+																												<option value="40">Cape Verde</option>
+																												<option value="41">Cayman Islands</option>
+																												<option value="42">Central African Republic</option>
+																												<option value="43">Chad</option>
+																												<option value="44">Chile</option>
+																												<option value="45">China</option>
+																												<option value="46">Christmas Island</option>
+																												<option value="47">Cocos (Keeling) Islands</option>
+																												<option value="48">Colombia</option>
+																												<option value="49">Comoros</option>
+																												<option value="50">Congo</option>
+																												<option value="51">Congo, Democratic Republic</option>
+																												<option value="52">Cook Islands</option>
+																												<option value="53">Costa Rica</option>
+																												<option value="54">Ivory Coast</option>
+																												<option value="55">Croatia</option>
+																												<option value="56">Cyprus</option>
+																												<option value="57">Czech Republic</option>
+																												<option value="58">Denmark</option>
+																												<option value="59">Djibouti</option>
+																												<option value="60">Dominica</option>
+																												<option value="61">Dominican Republic</option>
+																												<option value="62">East Timor</option>
+																												<option value="63">Ecuador</option>
+																												<option value="64">Egypt</option>
+																												<option value="65">El Salvador</option>
+																												<option value="67">Equatorial Guinea</option>
+																												<option value="68">Eritrea</option>
+																												<option value="70">Estonia</option>
+																												<option value="71">Ethiopia</option>
+																												<option value="72">Falkland Islands</option>
+																												<option value="73">Faroe Islands</option>
+																												<option value="74">Fiji</option>
+																												<option value="75">Finland</option>
+																												<option value="76">France</option>
+																												<option value="77">French Guiana</option>
+																												<option value="78">French Polynesia</option>
+																												<option value="79">French Southern Territories</option>
+																												<option value="80">Gabon</option>
+																												<option value="81">Gambia</option>
+																												<option value="82">Georgia</option>
+																												<option value="83">Germany</option>
+																												<option value="84">Ghana</option>
+																												<option value="85">Gibraltar</option>
+																												<option value="87">Greece</option>
+																												<option value="88">Greenland</option>
+																												<option value="89">Grenada</option>
+																												<option value="90">Guadeloupe</option>
+																												<option value="91">Guam</option>
+																												<option value="92">Guatemala</option>
+																												<option value="93">Guinea</option>
+																												<option value="94">Guinea-Bissau</option>
+																												<option value="95">Guyana</option>
+																												<option value="96">Haiti</option>
+																												<option value="97">Heard And Mcdonald Islands</option>
+																												<option value="98">Honduras</option>
+																												<option value="99">Hong Kong</option>
+																												<option value="100">Hungary</option>
+																												<option value="101">Iceland</option>
+																												<option value="102">India</option>
+																												<option value="103">Indonesia</option>
+																												<option value="104">Ireland</option>
+																												<option value="105">Iran</option>
+																												<option value="106">Iraq</option>
+																												<option value="107">Israel</option>
+																												<option value="108">Italy</option>
+																												<option value="109">Jamaica</option>
+																												<option value="110">Japan</option>
+																												<option value="111">Jordan</option>
+																												<option value="112">Kazakstan</option>
+																												<option value="113">Kenya</option>
+																												<option value="114">Kiribati</option>
+																												<option value="115">Korea, North</option>
+																												<option value="116">Korea</option>
+																												<option value="117">Kuwait</option>
+																												<option value="118">Kyrgyzstan</option>
+																												<option value="119">Lao</option>
+																												<option value="120">Latvia</option>
+																												<option value="121">Lebanon</option>
+																												<option value="122">Lesotho</option>
+																												<option value="123">Liberia</option>
+																												<option value="124">Liechtenstein</option>
+																												<option value="125">Lithuania</option>
+																												<option value="126">Luxembourg</option>
+																												<option value="127">Libya</option>
+																												<option value="128">Macau</option>
+																												<option value="129">Macedonia</option>
+																												<option value="130">Madagascar</option>
+																												<option value="131">Malawi</option>
+																												<option value="132">Malaysia</option>
+																												<option value="133">Maldives</option>
+																												<option value="134">Mali</option>
+																												<option value="135">Malta</option>
+																												<option value="136">Marshall Islands</option>
+																												<option value="137">Martinique</option>
+																												<option value="138">Mauritania</option>
+																												<option value="139">Mauritius</option>
+																												<option value="140">Mayotte</option>
+																												<option value="141">Mexico</option>
+																												<option value="142">Micronesia</option>
+																												<option value="143">Moldova</option>
+																												<option value="144">Monaco</option>
+																												<option value="145">Mongolia</option>
+																												<option value="146">Montserrat</option>
+																												<option value="147">Morocco</option>
+																												<option value="148">Mozambique</option>
+																												<option value="149">Myanmar</option>
+																												<option value="150">Namibia</option>
+																												<option value="151">Nauru</option>
+																												<option value="152">Nepal</option>
+																												<option value="153">Netherlands</option>
+																												<option value="154">Netherlands Antilles</option>
+																												<option value="155">New Caledonia</option>
+																												<option value="156">New Zealand</option>
+																												<option value="157">Nicaragua</option>
+																												<option value="158">Niger</option>
+																												<option value="159">Nigeria</option>
+																												<option value="160">Niue</option>
+																												<option value="161">Norfolk Island</option>
+																												<option value="163">Northern Mariana Islands</option>
+																												<option value="164">Norway</option>
+																												<option value="165">Oman</option>
+																												<option value="166">Pakistan</option>
+																												<option value="167">Palau</option>
+																												<option value="168">Panama</option>
+																												<option value="169">Papua New Guinea</option>
+																												<option value="170">Paraguay</option>
+																												<option value="171">Peru</option>
+																												<option value="172">Philippines</option>
+																												<option value="173">Pitcairn</option>
+																												<option value="174">Poland</option>
+																												<option value="175">Portugal</option>
+																												<option value="176">Puerto Rico</option>
+																												<option value="177">Qatar</option>
+																												<option value="178">Reunion</option>
+																												<option value="179">Romania</option>
+																												<option value="181">Russian Federation</option>
+																												<option value="182">Rwanda</option>
+																												<option value="183">Saint Kitts And Nevis</option>
+																												<option value="184">Saint Lucia</option>
+																												<option value="185">Saint Vincent And Grenadines</option>
+																												<option value="186">Samoa</option>
+																												<option value="187">San Marino</option>
+																												<option value="188">Sao Tome And Principe</option>
+																												<option value="189">Saudi Arabia</option>
+																												<option value="191">Senegal</option>
+																												<option value="192">Seychelles</option>
+																												<option value="193">Sierra Leone</option>
+																												<option value="194">Singapore</option>
+																												<option value="195">Slovakia</option>
+																												<option value="196">Slovenia</option>
+																												<option value="197">Solomon Islands</option>
+																												<option value="198">Somalia</option>
+																												<option value="199">South Africa</option>
+																												<option value="200">South Sandwich Islands</option>
+																												<option value="202">Spain</option>
+																												<option value="203">Sri Lanka</option>
+																												<option value="204">Saint Helena</option>
+																												<option value="205">Saint Pierre And Miquelon</option>
+																												<option value="206">Suriname</option>
+																												<option value="207">Svalbard and Jan Mayen</option>
+																												<option value="208">Swaziland</option>
+																												<option value="209">Sweden</option>
+																												<option value="210">Switzerland</option>
+																												<option value="211">Syrian Arab Republic</option>
+																												<option value="212">Taiwan</option>
+																												<option value="213">Tajikistan</option>
+																												<option value="214">Tanzania</option>
+																												<option value="215">Thailand</option>
+																												<option value="216">Togo</option>
+																												<option value="217">Tokelau</option>
+																												<option value="218">Tonga</option>
+																												<option value="220">Trinidad and Tobago</option>
+																												<option value="221">Tunisia</option>
+																												<option value="222">Turkey</option>
+																												<option value="223">Turkmenistan</option>
+																												<option value="224">Turks and Caicos Islands</option>
+																												<option value="225">Tuvalu</option>
+																												<option value="226">Uganda</option>
+																												<option value="227">Ukraine</option>
+																												<option value="228">United Arab Emirates</option>
+																												<option value="229">United Kingdom</option>
+																												<option value="230">United States Outlying Islands</option>
+																												<option value="231">Uruguay</option>
+																												<option value="232">Uzbekistan</option>
+																												<option value="233">Vanuatu</option>
+																												<option value="234">Vatican City State</option>
+																												<option value="235">Venezuela</option>
+																												<option value="236">Viet Nam</option>
+																												<option value="237">Virgin Islands, British</option>
+																												<option value="238">Virgin Islands, US</option>
+																												<option value="240">Wallis And Futuna</option>
+																												<option value="241">Western Sahara</option>
+																												<option value="242">Serbia</option>
+																												<option value="243">Yemen</option>
+																												<option value="244">Zambia</option>
+																												<option value="245">Zimbabwe</option>
+																												<option value="246">Cuba</option>
+																												<option value="247">Afghanistan</option>
+																												<option value="248">Palestinian Territory</option>
+																												<option value="249">Sudan</option>
+																												<option value="250">Isle of Man</option>
+																												<option value="251">Guernsey</option>
+																												<option value="252">Jersey</option>
+																												<option value="253">Aland Islands</option>
+																												<option value="254">Montenegro</option>
+																										</select>										
+											</div>
+										</div>
+										<div class="row registration-form-row">
+											<div class="col-md-6">
+												<div style="min-height: 50px;">How many PHP developers are in your team?</div>
+												<select class="registration-input registration-input-text form-control" id="registration-input-number-of-developers">
+													<option value="">-- Please Select --</option>
+													<option value="None/Outsource">None/Outsource</option>
+													<option value="1">Just one person</option>
+													<option value="Team of developers">A team of developers</option>
+												</select>
+											</div>
+											<div class="col-md-6">
+												<div style="min-height: 50px;">On a scale of 1-5, how business critical is the app? (1 = least critical and 5 = most critical)</div>
+												<select class="registration-input registration-input-text form-control" id="registration-input-app-business-critical">
+													<option value="">-- Please Select --</option>
+													<option value="1">1</option>
+													<option value="2">2</option>
+													<option value="3">3</option>
+													<option value="4">4</option>
+													<option value="5">5</option>
+												</select>
+											</div>
+										</div>
+										<div class="row registration-form-row">
+											<div class="col-md-6">
+												<div id="oschoice-div">
+													What platform are you using?													<select class="registration-input registration-input-text form-control" id="registration-input-oschoice">
+													<option value="">-- Please Select --</option>
+													<option value="other">I use Linux, Windows and/or Mac OS</option>
+													<option value="ibm">I use IBM i (AS/400)</option>
+													<option value="ibm">Both</option>
+												</select>
+												</div>
+											</div>
+											<div class="col-md-6">
+												<div id="lan-preferences-div">
+													Language preference<br />
+													<select class="registration-input registration-input-text form-control" id="registration-input-language-preferences">
+													<option value="">-- Please Select --</option>
+													<option value="English">English</option>
+													<option value="French">French</option>
+													<option value="German">German</option>
+													</select>	
+												</div>
+											</div>
+										</div>
+									</div>
+									<div id="keep-div" style="padding-top: 20px; padding-bottom: 20px;">
+										<div class="row">
+											<div class="col-md-12" style="text-align: center; font-size: 30px; color: #0071AD; padding-bottom: 10px;">
+												Let's keep in touch!											</div>
+										</div>
+										<style>
+										.registration-cb-div {
+											padding-right: 50px;
+											display: inline-block;
+										}
+										</style>
+										<div class="row">
+											<div class="col-md-12" style="text-align: center;">
+												<div class="registration-cb-div">
+													<input type="checkbox" id="registration-input-cb-news"/> Zend News												</div>
+												<div class="registration-cb-div">
+													<input type="checkbox" id="registration-input-cb-ibm-updates"/> Zend IBM i Updates												</div>
+												<div class="registration-cb-div">
+													<input type="checkbox" id="registration-input-cb-server-updates"/> Zend Server Updates												</div>
+												<div class="registration-cb-div">
+													<input type="checkbox" id="registration-input-cb-studio-updates"/> Zend Studio Updates												</div>
+											</div>
+										</div>
+									</div>
+									<div id="privacy-div" style="background-color: #DCEBF2; width: 100%; margin-top: 30px; padding-top: 20px;">
+										<div class="row">
+											<div class="col-md-12" style="text-align: center;">
+												<div style="padding: 0px 30px 10px 30px">
+													By providing your information and registering you are agreeing to the Zend Terms of Use.												</div>
+												<input type="checkbox" name="privacy" value="1" class="registration-input" id="registration-input-privacy">I agree to the Privacy Policy</span><br />
+												
+												<div style="text-align: center; padding: 20px 30px 30px 30px;">
+													<div class="login-register-now-button" onClick="Registration.register(); return false;">
+														<div class="login-register-now-button-left">
+															<img src="https://static-zend.pantherssl.com/cmsdata/login-register-assets/man-icon-21x18px.png" />
+														</div><div class="login-register-now-button-right">
+															Register Now														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-md-12" style="text-align: center; padding: 10px 10px 10px 10px;">
+												<div id="registrationFeeder" style="width: 70%; text-align: center; margin: 0 auto;"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<input type="submit" style="display: none;" />
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<br /><br /><br />
+				</div>
+			
+		</div>
+		<div class="footer_container">
+			<div class="container">
+				<div id="footer">
+					
+<div class="footer-section">
+	<a class="footer-title">Products &amp; Solutions</a>
+		
+		<a class="footer-sub-title">Products</a>
+			
+			<a href="/en/products/server" >Zend Server</a>			
+			<a href="/en/products/studio" >Zend Studio</a>			
+			<a href="/en/products/guard" >Zend Guard</a>			
+			<a href="https://apigility.org/" target="_blank">Apigility</a>			
+			<a href="http://framework.zend.com/" >Zend Framework</a>				
+		<a class="footer-sub-title">Solutions</a>
+			
+			<a href="/en/solutions/continuous-delivery" >Continuous Delivery</a>			
+			<a href="/en/solutions/cloud-solutions" >Cloud Solutions</a>			
+			<a href="/en/solutions/modernize-ibm-i" >IBM i Solutions</a>			</div>
+<div class="footer-section">
+	<a class="footer-title">Training</a>
+		
+		<a class="footer-sub-title">Training</a>
+			
+			<a href="/en/services/training" >Course Catalog</a>			
+			<a href="/en/services/training#help" >Help Me Choose</a>			
+			<a href="/en/services/training/training-bundles" >Training Bundles</a>				
+		<a class="footer-sub-title">Certification</a>
+			
+			<a href="/en/services/certification/php-5-certification" >PHP Certification</a>			
+			<a href="/en/services/certification/framework" >Zend Framework 1 Certification</a>			
+			<a href="/en/services/certification/framework-2" >Zend Framework 2 Certification</a>			
+			<a href="/en/services/certification/zend-certified-engineer-directory" >Zend Certified Engineer Directory</a>			</div>
+<div class="footer-section">
+	<a class="footer-title">Services &amp; Support</a>
+		
+		<a class="footer-sub-title">Services</a>
+			
+			<a href="/en/services/continuous-delivery" >Continuous Delivery</a>			
+			<a href="/en/services/application-audit-and-migration" >Application Audit &amp; Migration</a>			
+			<a href="/en/services/start-with-php" >Start with PHP</a>			
+			<a href="/en/services/zend-server-implementation" >Zend Server Implementation</a>			
+			<a href="/en/services/custom-implementation-services" >Custom Implementation</a>				
+		<a class="footer-sub-title">Support</a>
+			
+			<a href="/en/support-center" >How to get support</a>			
+			<a href="/en/user/login" >My Account</a>			
+			<a href="http://kb.zend.com/" target="_blank">Knowledgebase</a>			
+			<a href="http://forums.zend.com/" target="_blank">Forums</a>			
+			<a href="/en/resources/zend-documentation" >Product Documentation</a>			</div>
+<div class="footer-section">
+	<a class="footer-title">Resources</a>
+		
+		<a class="footer-sub-title">Topics</a>
+			
+			<a href="/en/resources/continuous-delivery" >Continuous Delivery</a>			
+			<a href="/en/resources/php-leadership" >PHP Leadership</a>			
+			<a href="/en/resources/zend-server" >Zend Server</a>			
+			<a href="/en/resources/zend-studio" >Zend Studio</a>			
+			<a href="http://framework.zend.com/" target="_blank">Zend Framework</a>				
+		<a class="footer-sub-title">Resources</a>
+			
+			<a href="/en/resources/newsletters" >Newsletter</a>			
+			<a href="/en/resources/white-papers" >White Papers and Surveys</a>			
+			<a href="/en/resources/case-studies" >Customer Success Stories</a>			
+			<a href="http://devzone.zend.com/" >Zend Developer Zone</a>				
+		<a class="footer-sub-title">Webinars and Events</a>
+			
+			<a href="http://blog.zend.com/" target="_blank">Blog</a>			
+			<a href="/en/resources/webinars" >Webinars</a>			
+			<a href="/en/resources/news-and-events/newsroom" >Newsroom</a>			
+			<a href="/en/resources/events" >Events</a>			
+			<a href="http://zendcon.com/" target="_blank">ZendCon</a>			</div>
+<div class="footer-section">
+	<a class="footer-title">Try &amp; Buy</a>
+		
+		<a class="footer-sub-title">Try Now</a>
+			
+			<a href="https://aws.amazon.com/marketplace/pp/B00BF5EVZY/ref=_ptnr_web_server_hp_en" >Zend Server on Amazon</a>			
+			<a href="/en/products/server/downloads" >Zend Server Download</a>			
+			<a href="/en/products/studio/downloads" >Zend Studio</a>			
+			<a href="/en/products/guard/downloads" >Zend Guard</a>				
+		<a class="footer-sub-title">Buy Now</a>
+			
+						
+			<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-studio-for-eclipse.html" >Zend Studio</a>			
+			<a href="http://www.zend.com/storeapi/index/redirect/?uri=zend-guard-annual.html" >Zend Guard</a>			
+			<a href="http://shop.zend.com/en/zend-certification.html" >Zend Certifications</a>			
+			<a href="http://shop.zend.com/en/php-training.html" >Zend Training Courses</a>				
+		<a class="footer-sub-title">Partners</a>
+			
+			<a href="/en/company/partners/solution-partners" >Solution Partners</a>			
+			<a href="/en/services/training/training-partners" >Training Partners</a>			
+			<a href="/en/company/partners/online-resellers" >Online Resellers</a>			
+			<a href="/en/company/partners/affiliate-network" >Affilate Network</a>			
+			<a href="/en/company/partners/strategic-partners" >Strategic Partners</a>			</div>
+<div class="footer-section">
+	<a class="footer-title">About Zend</a>
+		
+		<a class="footer-sub-title"></a>
+			
+			<a href="/en/company/company-overview" >Company Overview</a>			
+			<a href="/en/company/leadership" >Leadership</a>			
+			<a href="/en/company/investors" >Investors</a>			
+			<a href="/en/company/community" >Community</a>			
+			<a href="/en/company/contact-zend" >Contact Zend</a>			
+			<a href="/en/company/careers" >Careers</a>			
+			<a href="/en/company/partners/strategic-partners" >Strategic Partners</a>			</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer_b_container">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4" id="nav-under-footer">
+						<nav>
+							<a href="/en/company/terms-and-conditions#privacy">Privacy Policy</a>
+							<i class="separator"></i>
+							<a href="/en/company/terms-and-conditions">Terms & Conditions</a>
+							<i class="separator"></i>
+							<a href="/en/contact-us">Contact Us</a>
+							<i class="separator"></i>
+							<a href="/en/sitemap">Site Map</a>
+						</nav>
+						<div class="copyright">Zend Technologies Ltd 2014. All rights reserved.</div>
+					</div>
+					<div class="col-md-8 footer-socials">
+						<div id="footer-socials-links">
+							<a href="https://twitter.com/zend" class="social-icons icon-twitter"></a>
+							<a href="http://www.facebook.com/home.php#/pages/Zend-Technologies/190917412139" class="social-icons icon-facebook"></a>
+							<a href="http://www.linkedin.com/company/zend-technologies" class="social-icons icon-linkedin"></a>
+							<a href="http://www.youtube.com/user/ZendTechnologies" class="social-icons icon-youtube"></a>
+							<a href="https://plus.google.com/111606534535899916518" class="social-icons icon-gplus"></a>
+						</div>
+						<form id="mktoForm_1031"></form>
+                     	<button style="display: inline;" onclick="MktoForms2.getForm(1031).submit();" id="newsletter_form_button" type="button" class="modern-btn blue-btn">Submit <i class="fa fa-chevron-right" style="font-size:10px;"></i></button>
+					</div>
+			</div>
+		</div>
+				
+<script src="//app-ab03.marketo.com/js/forms2/js/forms2.js"></script>
+<script>MktoForms2.loadForm("//app-ab03.marketo.com", "074-LXC-746", 1031, function(form){
+	$('.mktoButton').css('display', 'none');
+	$('#Email').addClass('form-control');
+	$('#Email').addClass('newsletter_email');
+	$('#Email').removeClass('mktoField');
+	$('#Email').css('padding-left', '12px');
+	$('#Email').css('padding-bottom', '5px');
+	$('#Email').attr("placeholder", "Submit your email for our newsletter!");
+	$('#mktoForm_1031').css('vertical-align', 'text-top');
+});
+</script>
+<script>
+  (function() {
+    var cx = '010395135890226424592:jusat5wov78';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+	</body>
+</html>

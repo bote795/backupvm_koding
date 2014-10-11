@@ -1,0 +1,1714 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"player",
+				"playerid"
+			],
+			[
+				"opp",
+				"opponentMove"
+			],
+			[
+				"Cont",
+				"Container_initialize"
+			],
+			[
+				"init",
+				"initialize"
+			],
+			[
+				"start",
+				"startGame"
+			],
+			[
+				"game",
+				"gameid"
+			],
+			[
+				"the",
+				"theUser"
+			],
+			[
+				"user",
+				"userIterator"
+			],
+			[
+				"j",
+				"joined"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"use",
+				"userList"
+			],
+			[
+				"refre",
+				"refreshUserList"
+			],
+			[
+				"remove",
+				"remove"
+			],
+			[
+				"mod",
+				"modals"
+			],
+			[
+				"mo",
+				"modals"
+			],
+			[
+				"acc",
+				"acceptRequest"
+			],
+			[
+				"decline",
+				"declineRequest"
+			],
+			[
+				"request",
+				"requestLogin"
+			],
+			[
+				"c",
+				"chess"
+			],
+			[
+				"_use",
+				"_userColor"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"col",
+				"colorMod"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"add",
+				"addUser"
+			],
+			[
+				"_se",
+				"_selectorUserList"
+			],
+			[
+				"chal",
+				"challenge"
+			],
+			[
+				"reque",
+				"requestModal"
+			],
+			[
+				"socke",
+				"sockets"
+			],
+			[
+				"_id",
+				"_idLogout"
+			],
+			[
+				"_sele",
+				"_selectorLogout"
+			],
+			[
+				"logo",
+				"logoutLink"
+			],
+			[
+				"get",
+				"getUsername"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"register",
+				"registeredPlayer"
+			],
+			[
+				"val",
+				"validatorType"
+			],
+			[
+				"_pl",
+				"_playersOnline"
+			],
+			[
+				"Game",
+				"GameSchema"
+			],
+			[
+				"Play",
+				"PlayerSchema"
+			],
+			[
+				"un",
+				"uniqueId"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"flas",
+				"flashMessage"
+			],
+			[
+				"sock",
+				"sockets"
+			],
+			[
+				"requ",
+				"requestModal"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"sess",
+				"sessionSockets"
+			],
+			[
+				"playr",
+				"playerlist"
+			],
+			[
+				"ses",
+				"session"
+			],
+			[
+				"mes",
+				"messageType"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"author",
+				"author"
+			],
+			[
+				"au",
+				"author"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"epi",
+				"episode"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"mess",
+				"messageType"
+			],
+			[
+				"err",
+				"errorThrown"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"episode",
+				"episodeId"
+			],
+			[
+				"has",
+				"hasSeen"
+			],
+			[
+				"ep",
+				"episodeId"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"findAll",
+				"findAllByAttributes"
+			],
+			[
+				"epis",
+				"episodeId"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"last",
+				"lastChecked"
+			],
+			[
+				"acti",
+				"action"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"pla",
+				"playerMoves"
+			],
+			[
+				"secod",
+				"secondMoves"
+			],
+			[
+				"sec",
+				"secondMove"
+			],
+			[
+				"fir",
+				"firstMoves"
+			],
+			[
+				"op",
+				"oppsiteBidAverage"
+			],
+			[
+				"sc",
+				"scotchPos"
+			],
+			[
+				"play",
+				"playerMove"
+			],
+			[
+				"firs",
+				"firstMoves"
+			],
+			[
+				"second",
+				"secondMoves"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"confi",
+				"configuration"
+			],
+			[
+				"_b",
+				"_backup_gen_filename"
+			],
+			[
+				"MC",
+				"MC_DIR"
+			],
+			[
+				"MC_RA",
+				"MC_RAM_MAX"
+			],
+			[
+				"MC_",
+				"MC_RAM_MAX"
+			],
+			[
+				"REA",
+				"READ_RAM_MAX"
+			],
+			[
+				"FILE",
+				"FILE_MC"
+			],
+			[
+				"FIL",
+				"FILE_MC"
+			],
+			[
+				"S3C",
+				"FILE_S3CMD_CONFIG"
+			],
+			[
+				"FILE_",
+				"FILE_S3CMD_CONFIG"
+			],
+			[
+				"SS",
+				"SSH_DIR"
+			],
+			[
+				"SSH",
+				"SSH_USER"
+			],
+			[
+				"ba",
+				"backup_ssh"
+			],
+			[
+				"ser",
+				"server_stop"
+			],
+			[
+				"time",
+				"timeStart"
+			],
+			[
+				"base",
+				"baseTypes"
+			],
+			[
+				"bcp",
+				"bcpowmod"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 6322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libs/helper.js",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Game.js",
+			"settings":
+			{
+				"buffer_size": 660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/play.jade",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/objects.js",
+			"settings":
+			{
+				"buffer_size": 551,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"synt php",
+				"Set Syntax: PHP"
+			],
+			[
+				"upload",
+				"SFTP: Upload VCS Changed Files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"synta les",
+				"Set Syntax: LESS"
+			],
+			[
+				"isntal",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"rename",
+				"Gist: Rename File"
+			],
+			[
+				"open gi",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gist c",
+				"Gist: Create Public Gist"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 227.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/local/apache2/htdocs/dev/battlefield/public/js/play.js",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/opt/local/apache2/htdocs/dev/battlefield/public/less/main.less",
+		"/opt/local/apache2/htdocs/dev/battlefield/views/play.jade",
+		"/opt/local/apache2/htdocs/dev/pgn/views/start.jade",
+		"/opt/local/apache2/htdocs/dev/pgn/static/less/style.less",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/app.js",
+		"/opt/local/apache2/htdocs/dev/pgn/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/chess.js/chess.js",
+		"/opt/local/apache2/htdocs/dev/pgn/views/layout.jade",
+		"/opt/local/apache2/htdocs/dev/pgn/static/css/style.css",
+		"/opt/local/apache2/htdocs/dev/pgn/static/test.css",
+		"/opt/local/apache2/htdocs/dev/pgn/static/less/test.less",
+		"/opt/local/apache2/htdocs/dev/pgn/README.md",
+		"/opt/local/apache2/htdocs/dev/pgn/models/User.js",
+		"/opt/local/apache2/htdocs/dev/pgn/lib/db.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/less/bootstrap/less/variables.less",
+		"/opt/local/apache2/htdocs/dev/pgn/static/less/bootstrap/less/mixins.less",
+		"/opt/local/apache2/htdocs/dev/pgn/static/less/bootstrap/less/bootswatch.less",
+		"/opt/local/apache2/htdocs/dev/pgn/package.test.json",
+		"/opt/local/apache2/htdocs/dev/pgn/config/local.js",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/vows/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/socket.io/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/should/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/session.socket.io/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/mongoose/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/mocha/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/jade/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/express/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/connect-redis/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/connect/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/caterpillar/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/bcrypt/package.json",
+		"/opt/local/apache2/htdocs/dev/pgn/.gitignore",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/share/Validator.js",
+		"/opt/local/apache2/htdocs/dev/pgn/models/Player.js",
+		"/opt/local/apache2/htdocs/dev/pgn/models/Players.js",
+		"/opt/local/apache2/htdocs/dev/pgn/models/Schema.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/share/Validators.js",
+		"/opt/local/apache2/htdocs/dev/pgn/share/Validators.js",
+		"/opt/local/apache2/htdocs/dev/pgn/models/Game.js",
+		"/opt/local/apache2/htdocs/dev/pgn/pgn.sublime-workspace",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/game/User.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/main.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/libs/jquery/jquery.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/libs/app.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/libs/bootstrap/bootstrap.min.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/script.js",
+		"/opt/local/apache2/htdocs/dev/pgn/lib/logger.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/libs/require/require.2.1.1.min.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/js/libs/helpers.js",
+		"/opt/local/apache2/htdocs/dev/pgn/models/Games.js",
+		"/opt/local/apache2/htdocs/dev/pgn/config/logger.js",
+		"/opt/local/apache2/htdocs/dev/pgn/node_modules/session.socket.io/session.socket.io.js",
+		"/opt/local/apache2/htdocs/dev/play/js/main.js",
+		"/opt/local/apache2/htdocs/dev/play/js/index.js",
+		"/opt/local/apache2/htdocs/dev/play/public/js/play/main.js",
+		"/opt/local/apache2/htdocs/dev/play/public/js/app.js",
+		"/opt/local/apache2/htdocs/dev/pgn/static/less/bootstrap/less/buttons.less",
+		"/opt/local/apache2/htdocs/dev/pgn/views/index.jade",
+		"/opt/local/apache2/htdocs/dev/pgn/static/css/style.less",
+		"/opt/local/apache2/htdocs/dev/pgn/static/css/bootstrap.min.css",
+		"/Users/tim/Downloads/h5bp-html5-boilerplate-3bc5ed9/css/normalize.css",
+		"/opt/local/apache2/htdocs/dev/pgn/models/authorlist.js",
+		"/opt/local/apache2/htdocs/dev/pgn/pgn_files/Kasparov.pgn",
+		"/Users/tim/Downloads/pgn4web-2.63/pgn4web.js",
+		"/opt/local/apache2/htdocs/dev/pgn/Makefile",
+		"/opt/local/apache2/htdocs/dev/pgn/test/stub.js",
+		"/opt/local/apache2/htdocs/dev/pgn/models/game.js",
+		"/opt/local/apache2/htdocs/dev/pgn/models/gamelist.js",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/js/main.js",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/themes/fotosummit/less/twitterbootstrap/less/bootstrap.less",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/themes/fotosummit/views/blog/_form.php",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/protected/models/Workshop.php",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/protected/components/ics/Invite.php",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/protected/controllers/WorkshopController.php",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/protected/config/production.php",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/themes/fotosummit/views/cmsGallery/_form.php",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/httpdocs/images/workshops/watermark_small.png",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/.gitignore",
+		"/opt/local/apache2/htdocs/va/prod/fotosummit/docs/classes/WorkshopController.html",
+		"/opt/local/apache2/htdocs/webhost/seen/.gitmodules",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/images/about/show-view.jpg",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/js/modernizr.custom.js",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/images/logo_small.png",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/yii/demos/blog/protected/views/site/pages/about.php",
+		"/opt/local/apache2/htdocs/webhost/seen/blog/wp-admin/about.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/models/User.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/components/Mailchimp.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/config/_params.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/config/_rules.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/less/bootstrap/less/variables.less",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/images/email/header.jpg",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/layouts/main.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/models/Show.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/controllers/ShowController.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/show/view.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/js/app.js",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/components/WebUser.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/models/Episode.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/show/index.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/show/_view.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/sftp-config.json",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/controllers/SiteController.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/config/_db.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/models/NewPasswordForm.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/css/seen-theme/jquery-ui-1.9.1.custom.min.css",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/site/register.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/site/login.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/layouts/login.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/site/reset.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/components/Controller.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/less/main.less",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/components/Email.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/site/newPassword.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/models/ResetForm.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/models/LoginForm.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/models/RegisterForm.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/site/welcome.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/js/social.js",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/controllers/ActorController.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/reminder/_form.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/js/list.min.js",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/themes/seen/views/site/about.php",
+		"/opt/local/apache2/htdocs/webhost/seen/httpdocs/protected/widgets/bootstrap/EBootstrap.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"package.json",
+			"",
+			"*.php",
+			"/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'game player move",
+			"this.",
+			"this.players",
+			"Left",
+			"player:move",
+			"move",
+			"console.",
+			"this.player",
+			"player-start-game",
+			"user list ad",
+			"userlist.add",
+			"game init",
+			"User.getId",
+			"App.addInfo",
+			"App.addSuccess",
+			"App.addWarning",
+			"App.addError",
+			"addMessage",
+			" = ",
+			"this._",
+			"userlist",
+			"requestLogout",
+			"doLogout",
+			"logout",
+			"arguments",
+			"user.login",
+			"login",
+			"user.id",
+			"user",
+			"theUser",
+			"showLogin",
+			"break",
+			"break;",
+			"position = position +",
+			"postion",
+			"'match fen",
+			"match re",
+			"%",
+			"init:",
+			"new Game",
+			"objectId",
+			"db",
+			"User",
+			"userSchema",
+			"game reque",
+			"debug",
+			"player-decline-request",
+			"displayReq",
+			"logout",
+			"login suc",
+			"href=\"",
+			"socket.on",
+			"User.login",
+			"url",
+			"'",
+			"User.ini",
+			"message",
+			"Player.",
+			"Players",
+			"register",
+			"Playerlist",
+			"thePlayer",
+			"addSuc",
+			"addWarn",
+			"addError",
+			"io.",
+			"setUser",
+			"console",
+			"console.",
+			"thePlayer",
+			"console.log",
+			".on",
+			"searchO",
+			"save",
+			"playerId",
+			"button",
+			"btn",
+			"input",
+			"forms",
+			"@import",
+			"  ",
+			"auto 9",
+			"_from",
+			"featurette",
+			"linkColor",
+			"flash",
+			"::markSeen",
+			"markSeen",
+			"shows",
+			"search",
+			"color",
+			"color:",
+			"font",
+			"font-fa",
+			"script",
+			"moderni",
+			"borderRad",
+			"inputHeight",
+			"bootswa",
+			"upload_on_save",
+			"galleria-lightbox-box",
+			"DIR_s",
+			"DIR_SER",
+			"is_prime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"app.info",
+			"app.success",
+			"app.warning",
+			"app.error",
+			"\"",
+			"}",
+			"{\n	'name': 'chess',\n	'version': '0.1',\n	'description': 'Chess game with node.js, socket.io, redis and mongodb',\n	'keywords': [\n		'chess',\n		'game',\n		'sockets'\n	],\n	'homepage': 'https://bitbucket.org/t_visualappeal/chess',\n	'bugs': 'https://bitbucket.org/t_visualappeal/chess/issues',\n	'repository': {\n		'type': 'git',\n		'url': 'git@bitbucket.org:t_visualappeal/chess.git'\n	},\n	'main': 'server.js',\n	'dependencies': {\n		'bcrypt': '>= 0.7',\n		'caterpillar': '>= 1.1',\n		'connect': '>= 1.8',\n		'connect-redis': '>= 1.4',\n		'express': '>= 2.5',\n		'jade': '>= 0.20',\n		'mongoose': '>= 2.4',\n		'session.socket.io': '>= 0.1.2',\n		'socket.io': '>= 0.8'\n	}\n}",
+			"\"",
+			"User",
+			"playerid",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 6322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4711,
+								4711
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "libs/helper.js",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/Game.js",
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/play.jade",
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/js/objects.js",
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 208.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.js",
+				"static/js/app.js"
+			],
+			[
+				"app",
+				"static/js/app.js"
+			],
+			[
+				"style",
+				"static/less/style.less"
+			],
+			[
+				"var",
+				"static/less/bootstrap/less/variables.less"
+			],
+			[
+				"ariable",
+				"static/less/bootstrap/less/variables.less"
+			],
+			[
+				"player",
+				"models/Player.js"
+			],
+			[
+				"players",
+				"models/Players.js"
+			],
+			[
+				"gallery_vi",
+				"httpdocs/themes/fotosummit/views/cmsGallery/_view.php"
+			],
+			[
+				"invi",
+				"httpdocs/protected/components/ics/Invite.php"
+			],
+			[
+				"workshop.php",
+				"httpdocs/protected/models/Workshop.php"
+			],
+			[
+				"workshopcontr",
+				"httpdocs/protected/controllers/WorkshopController.php"
+			],
+			[
+				"cms_form",
+				"httpdocs/themes/fotosummit/views/cmsGallery/_form.php"
+			],
+			[
+				"workshopcontphp",
+				"httpdocs/protected/controllers/WorkshopController.php"
+			],
+			[
+				"workshopcon",
+				"docs/classes/WorkshopController.html"
+			],
+			[
+				"modelswor",
+				"httpdocs/protected/models/Workshop.php"
+			],
+			[
+				"viewabout",
+				"httpdocs/themes/seen/views/site/about.php"
+			],
+			[
+				"about",
+				"httpdocs/yii/demos/blog/protected/views/site/pages/about.php"
+			],
+			[
+				"varia",
+				"httpdocs/themes/seen/less/bootstrap/less/variables.less"
+			],
+			[
+				"mail",
+				"httpdocs/protected/components/Mailchimp.php"
+			],
+			[
+				"layoutsmai",
+				"httpdocs/themes/seen/views/layouts/main.php"
+			],
+			[
+				"episode",
+				"httpdocs/protected/models/Episode.php"
+			],
+			[
+				"view",
+				"httpdocs/themes/seen/views/show/view.php"
+			],
+			[
+				"user",
+				"httpdocs/protected/models/User.php"
+			],
+			[
+				"web",
+				"httpdocs/protected/components/WebUser.php"
+			],
+			[
+				"showco",
+				"httpdocs/protected/controllers/ShowController.php"
+			],
+			[
+				"show",
+				"httpdocs/protected/models/Show.php"
+			],
+			[
+				"show_v",
+				"httpdocs/themes/seen/views/show/_view.php"
+			],
+			[
+				"showinde",
+				"httpdocs/themes/seen/views/show/index.php"
+			],
+			[
+				"showvie",
+				"httpdocs/themes/seen/views/show/view.php"
+			],
+			[
+				"sitecon",
+				"httpdocs/protected/controllers/SiteController.php"
+			],
+			[
+				"new",
+				"httpdocs/protected/models/NewPasswordForm.php"
+			],
+			[
+				"main.e",
+				"httpdocs/themes/seen/less/main.less"
+			],
+			[
+				"newpas",
+				"httpdocs/protected/models/NewPasswordForm.php"
+			],
+			[
+				"email",
+				"httpdocs/protected/components/Email.php"
+			],
+			[
+				"resetfo",
+				"httpdocs/protected/models/ResetForm.php"
+			],
+			[
+				"layoutmain",
+				"httpdocs/themes/seen/views/layouts/main.php"
+			],
+			[
+				"app.",
+				"httpdocs/js/app.js"
+			],
+			[
+				"login",
+				"httpdocs/themes/seen/views/site/login.php"
+			],
+			[
+				"reset.ph",
+				"httpdocs/themes/seen/views/site/reset.php"
+			],
+			[
+				"register",
+				"httpdocs/themes/seen/views/site/register.php"
+			],
+			[
+				"loginfo",
+				"httpdocs/protected/models/LoginForm.php"
+			],
+			[
+				"contro",
+				"httpdocs/protected/components/Controller.php"
+			],
+			[
+				"showc",
+				"httpdocs/protected/controllers/ShowController.php"
+			],
+			[
+				"actor",
+				"httpdocs/protected/controllers/ActorController.php"
+			],
+			[
+				"showcon",
+				"httpdocs/protected/controllers/ShowController.php"
+			],
+			[
+				"showview",
+				"httpdocs/themes/seen/views/show/view.php"
+			],
+			[
+				"reminde",
+				"httpdocs/themes/seen/views/reminder/_form.php"
+			],
+			[
+				"iewabout",
+				"httpdocs/themes/seen/views/site/about.php"
+			],
+			[
+				"a",
+				"blog/wp-admin/about.php"
+			],
+			[
+				"show_vi",
+				"httpdocs/themes/seen/views/show/_view.php"
+			],
+			[
+				"works_view",
+				"httpdocs/themes/fotosummit/views/workshop/_view.php"
+			],
+			[
+				"workview",
+				"httpdocs/themes/fotosummit/views/workshop/view.php"
+			],
+			[
+				"less",
+				"httpdocs/themes/fotosummit/less/main.less"
+			],
+			[
+				"cmsgalleryview",
+				"httpdocs/themes/fotosummit/views/cmsGallery/_view.php"
+			],
+			[
+				"blogview",
+				"httpdocs/themes/fotosummit/views/blog/view.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}

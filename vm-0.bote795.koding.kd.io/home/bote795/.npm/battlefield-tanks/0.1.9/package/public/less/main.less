@@ -1,0 +1,38 @@
+@import "bootstrap/less/bootstrap";
+@import "bootstrap/less/bootswatch";
+
+.reset-list() {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.hidden {
+	display: none;
+}
+
+#flash-messages {
+	position: absolute;
+	width: 100%;
+
+	.alert {
+		
+	}
+}
+
+#stage {
+	background: black;
+}
+
+#player-list {
+	.reset-list();
+
+	li {
+		padding: 4px;
+	}
+}
+
+#player-actions {
+	.reset-list();
+	margin-top: 20px;
+}

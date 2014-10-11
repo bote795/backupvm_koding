@@ -1,0 +1,1 @@
+var HOME = process.env.HOME; SESSION = process.argv[2]; if (SESSION) { require('connect')().use('/brackets/'+SESSION, require('brackets')(HOME+'/Web')).listen(3000); console.log('Running at 0.0.0.0:3000/brackets/'+SESSION); } else { console.warn('Missing session parameter.'); }
